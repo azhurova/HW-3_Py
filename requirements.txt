@@ -1,0 +1,6 @@
+requests
+fake-headers
+soupsieve
+lxml
+selenium
+webdriver_manager
